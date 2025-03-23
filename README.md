@@ -51,7 +51,7 @@ The Overall Accuracy is 86.65% [Sufficient considering Dataset size] with loss a
 **Clone the Repository** <br>
   Clone the Repository to your Local Machine
   ```bash
-  git clone https://github.com/AakashAP/.git
+  git clone https://github.com/AakashAP/Leaves-Disease-Detection.git
   ```
 
 **Open in Code Editor** <br>
